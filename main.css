@@ -1,0 +1,19 @@
+body
+{
+ text-align: center;
+ background-image: linear-gradient(rgb(250, 202, 8),rgb(252, 252, 251),rgb(255, 255, 255),rgb(9, 252, 171));
+   
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width:100%;
+    font-size: 26px;
+    background-color: coral;
+    line-height:3;
+    text-align: center;
+
+}
+
